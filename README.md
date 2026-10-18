@@ -2,11 +2,7 @@
 
 A sleek, modern 64-bit operating system built from scratch in C++17.
 
-<p align="center">
-  <video src="FluxOsShowcaseCompressed.mp4" width="100%" autoplay loop muted playsinline controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/8a414362-dec3-4ecb-b9a4-ef9f1b1b93c3
 
 ---
 
